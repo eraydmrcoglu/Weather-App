@@ -139,7 +139,7 @@ function App() {
           <Hourly />
           <h2 className="heading">Bugünün Verileri</h2>
           <Highlights />
-          <h2 className="heading">Bugün</h2>
+          <h2 className="heading">Bu Hafta</h2>
           <Forecast />
           <Footer />
         </div>
